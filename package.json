@@ -24,7 +24,7 @@
 	"dependencies": {
 		"svelte": "~1.58.0",
 		"neutrino-middleware-svelte-loader": "~4.1.0",
-		"@neutrinojs/chunk": "~8.0.18",
+		"@neutrinojs/chunk": "~8.2.0",
 		"@neutrinojs/clean": "~8.0.18",
 		"@neutrinojs/copy": "~8.0.18",
 		"@neutrinojs/minify": "~8.0.18",
